@@ -1,0 +1,28 @@
+{
+  "binary": {
+    "0": "No Racial Bias",
+    "1": "Racial Bias"
+  },
+  "category": {
+    "African": "African",
+    "Asian": "Asian",
+    "Hispanic": "Hispanic",
+    "Muslim/Arab": "Muslim/Arab",
+    "Jewish": "Jewish",
+    "White": "White",
+    "General": "General",
+    "None": "None"
+  },
+  "type": {
+    "Stereotyping": "Stereotyping",
+    "Slurs": "Slurs",
+    "Ideological": "Ideological",
+    "Discrimination": "Discrimination",
+    "Othering": "Othering",
+    "None": "None"
+  },
+  "multi": {
+    "1": 1,
+    "0": 0
+  }
+}
