@@ -8,7 +8,7 @@ The project is organized into the following directories:
 
 - `A/` - Contains preprocessing logic for the HateXplain dataset
 - `B/` - Contains the BiRNN-Attention model implementation and training code
-- `Datasets/` - Contains scripts for downloading and preparing the HateXplain dataset
+- `Datasets/` - Contains scripts for downloading and preparing the HateXplain dataset (Also where HateXplain dataset is stored and preprocessed data is stored)
 - `outputs/` - Contains trained models, confusion matrices, and training progress plots
 
 ## File Descriptions
