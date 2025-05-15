@@ -50,8 +50,8 @@ plots
 
 1. Clone this repository:
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone <https://github.com/ebenezerArt/DLNLP_assignment_25-21092873.git>
+cd <repository-directory> (DLNLP_assignment_25-21092873)
 ```
 
 2. Install the required packages:
