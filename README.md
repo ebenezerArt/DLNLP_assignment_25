@@ -65,15 +65,6 @@ python Datasets/DataDownload.py
 ```
 
 ## Usage Instructions
-
-### Data Preprocessing
-
-The preprocessing step categorizes and prepares the HateXplain dataset for racial bias detection:
-
-```bash
-python -c "from A.preprocessing import load_and_categorize_data, analyze_categories, process_for_multi_class_modeling; all_data, balanced_data = load_and_categorize_data(); analyze_categories(balanced_data); process_for_multi_class_modeling(balanced_data)"
-```
-
 ### Training and Evaluation
 
 To train and evaluate the BiRNN-Attention model:
