@@ -1,4 +1,4 @@
-# Racial Bias Detection with BiRNN-Attention Model
+# Racial Bias Detection and Catergorisation with BiRNN-Attention Model
 
 This repository contains code for detecting and categorizing racial bias in text using a Bidirectional RNN with Attention model. The implementation processes the HateXplain dataset, categorizing racial bias into multiple groups and employing a multi-task learning approach to both detect and categorize racial bias in text.
 
