@@ -51,7 +51,7 @@ plots
 1. Clone this repository:
 ```bash
 git clone <https://github.com/ebenezerArt/DLNLP_assignment_25-21092873.git>
-cd <repository-directory> (DLNLP_assignment_25-21092873)
+cd <..\DLNLP_assignment_25-21092873> 
 ```
 
 2. Install the required packages:
